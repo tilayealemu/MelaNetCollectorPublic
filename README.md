@@ -1,1 +1,1 @@
-No personal information collected. Audio data used for training speech recognizer.
+Application to collect training data for MelaNet. Users can listen to the audio they recorded, delete and re-record if needed. No personal information collected. MelaNet is a free and opensource project.
